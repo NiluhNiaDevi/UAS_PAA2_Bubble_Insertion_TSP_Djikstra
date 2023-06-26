@@ -1,6 +1,6 @@
 # UAS_PAA2_Bubble_Insertion_TSP_Djikstra
 # Niluh Nia Devi_F55121058
-# Kelas B_Teknik Informatika
+# Kelas B__Teknik Informatika
                                                   **ANALISIS ALGORITMA UNTUK EVALUASI PROGRAM**
   A. Bubble Sort Dan Insertion Sort
      Worst Case:
